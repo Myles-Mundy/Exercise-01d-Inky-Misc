@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Myles Mundy
 
-# Your Github username
+# Myles-Mundy
